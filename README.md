@@ -6,33 +6,19 @@ Sentiment analysis involves determining the emotional tone of a piece of text. I
 In this project, we apply Recurrent Neural Networks (RNNs) to perform sentiment analysis on customer reviews of the Swiggy food delivery platform. The task involves classifying reviews as either positive or negative, which provides insights into customer satisfaction.
 
 Table of Contents
-Introduction
-
-Prerequisites
-
 Data Preprocessing
-
 Building the RNN Model
-
 Training the Model
-
 Evaluating the Model
-
 Prediction
-
 Conclusion
 
 Libraries and Dataset
 We will use the following libraries for this project:
-
 numpy: For numerical operations.
-
 pandas: For data manipulation and analysis.
-
 re: For regular expressions to clean the text data.
-
 sklearn: For splitting the data into training, validation, and test sets.
-
 tensorflow: For building and training the RNN model.
 
 Conclusion
